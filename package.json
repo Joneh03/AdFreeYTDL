@@ -6,6 +6,7 @@
   "author": "Joneh_",
   "license": "ISC",
   "scripts": {
+    "download": "npm i && npm i ytdl-core@4.10.0",
     "start": "node app.js"
   },
   "dependencies": {
