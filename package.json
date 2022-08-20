@@ -1,0 +1,16 @@
+{
+  "name": "adfree_ytdl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "Joneh_",
+  "license": "ISC",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "ytdl-core": "^4.10.0"
+  }
+}
