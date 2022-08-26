@@ -6,12 +6,11 @@
   "author": "Joneh_",
   "license": "ISC",
   "scripts": {
-    "download": "npm i && npm i ytdl-core@4.10.0",
     "start": "node app.js"
   },
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "fluent-ffmpeg": "^2.1.2",
-    "ytdl-core": "^4.10.0"
+    "ytdl-core": "^4.11.1"
   }
 }
